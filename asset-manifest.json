@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cardview_react/static/css/main.37ab25d1.css",
+    "main.js": "/cardview_react/static/js/main.d260ff20.js",
+    "static/js/787.a8f914c8.chunk.js": "/cardview_react/static/js/787.a8f914c8.chunk.js",
+    "static/media/dog.jpg": "/cardview_react/static/media/dog.df8762a1ed4827bb0f61.jpg",
+    "static/media/cat.jpg": "/cardview_react/static/media/cat.ec82b340dd45bc6209fe.jpg",
+    "index.html": "/cardview_react/index.html",
+    "main.37ab25d1.css.map": "/cardview_react/static/css/main.37ab25d1.css.map",
+    "main.d260ff20.js.map": "/cardview_react/static/js/main.d260ff20.js.map",
+    "787.a8f914c8.chunk.js.map": "/cardview_react/static/js/787.a8f914c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ab25d1.css",
+    "static/js/main.d260ff20.js"
+  ]
+}
